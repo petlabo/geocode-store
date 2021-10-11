@@ -8,6 +8,6 @@ Store information of "Chofu Premium Gift" in a map using folium<br>
 <strong>3.</strong> <strong>2</strong>にて得られた緯度経度を用いて、foliumにて作成したマップ上にマーカーを作成する。
 
 <h2>ソースコード</h2>
-手順1・3に該当するソースコード: chofu_coupn.ipynbまたはchofu_coupn.py<br>
+手順1・3に該当するソースコード: chofu_coupon.ipynbまたはchofu_coupon.py<br>
 手順2に該当するソースコード: land_scraping_chofu.py<br><br>
 出来上がったhtmlファイル: <a href="https://petlabo.github.io/geocode-store/chofu_maps.html">chofu_maps.html</a>
