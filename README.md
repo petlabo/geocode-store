@@ -10,4 +10,4 @@ Store information of "Chofu Premium Gift" in a map using folium<br>
 <h2>ソースコード</h2>
 手順1・3に該当するソースコード: chofu_coupn.ipynb<br>
 手順2に該当するソースコード: land_scraping_chofu.py<br><br>
-出来上がったhtmlファイル: <a href="petlabo.github.io/geocode-store/chofu_maps.html">chofu_maps.html</a>
+出来上がったhtmlファイル: <a href="https://petlabo.github.io/geocode-store/chofu_maps.html">chofu_maps.html</a>
