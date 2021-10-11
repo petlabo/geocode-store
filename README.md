@@ -1,6 +1,8 @@
 <h1>geocode-store</h1>
 Store information of "Chofu Premium Gift" in a map using folium<br>
-プレミアム商品券の対象店の情報をfoliumにて作成したマップ上に掲載
+
+市のプレミアム商品券の対象店を探すとき、対象店舗の所在を表した地図が公式より掲載されておらず、近所の店舗を探すのに苦労したため、<br>
+地図上に店舗情報を表したWebページを作成した。
 
 <h2>手順</h2>
 <strong>1.</strong> プレミアム商品券の対象店の一覧が掲載されたページから店舗情報をスクレイピングする。<br>
